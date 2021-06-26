@@ -1,0 +1,6 @@
+var a02665 =
+[
+    [ "IsDisguisedMonster", "a02665.html#a533eb5d618faa9f67cd12c9b8e51de88", null ],
+    [ "ShouldExposeContentsToRoom", "a02665.html#afdcb2bb0e2c9e15d4aea3599f0493913", null ],
+    [ "ShouldShowContentsWhenOpened", "a02665.html#a07bfe03861dceb3106286e160ae569cc", null ]
+];
