@@ -1,0 +1,26 @@
+var namespaces_dup =
+[
+    [ "AlternateBeginnersCave", "a02243.html", "a02243" ],
+    [ "ARuncibleCargo", "a02251.html", "a02251" ],
+    [ "BeginnersCaveII", "a02260.html", "a02260" ],
+    [ "BeginnersForest", "a02266.html", "a02266" ],
+    [ "Eamon", "a02411.html", "a02411" ],
+    [ "EamonDD", "a02447.html", "a02447" ],
+    [ "EamonMH", "a02463.html", "a02463" ],
+    [ "EamonPM", "a02474.html", "a02474" ],
+    [ "EamonRT", "a02477.html", "a02477" ],
+    [ "LandOfTheMountainKing", "a02276.html", "a02276" ],
+    [ "RiddlesOfTheDuergarKingdom", "a02284.html", "a02284" ],
+    [ "SampleAdventure", "a02294.html", "a02294" ],
+    [ "StrongholdOfKahrDur", "a02299.html", "a02299" ],
+    [ "System", "a02439.html", "a02439" ],
+    [ "TheBeginnersCave", "a02309.html", "a02309" ],
+    [ "TheDeepCanyon", "a02319.html", "a02319" ],
+    [ "ThePyramidOfAnharos", "a02331.html", "a02331" ],
+    [ "TheSubAquanLaboratory", "a02342.html", "a02342" ],
+    [ "TheTempleOfNgurct", "a02353.html", "a02353" ],
+    [ "TheTrainingGround", "a02363.html", "a02363" ],
+    [ "TheVileGrimoireOfJaldial", "a02372.html", "a02372" ],
+    [ "TheWayfarersInn", "a02388.html", "a02388" ],
+    [ "WrenholdsSecretVigil", "a02401.html", "a02401" ]
+];

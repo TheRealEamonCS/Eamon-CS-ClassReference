@@ -1,0 +1,28 @@
+var a06334 =
+[
+    [ "Engine", "a06334.html#a3843dba573e339a0dc574bc5f803770c", null ],
+    [ "DdProcessArgv", "a06334.html#add24c0686777b41827d558060ac3b661", null ],
+    [ "InitSystem", "a06334.html#ab3525b9012e21723fd5b84140de5c99b", null ],
+    [ "IsAdventureFilesetLoaded", "a06334.html#a37a98b2918a77a13d69d9c9c28cc4f2e", null ],
+    [ "LoadPluginClassMappings", "a06334.html#a0becfac97161f304ff96b6d5653d98a4", null ],
+    [ "ResetProperties", "a06334.html#a8a5e29cbe207ff453b5bcb7c9db932e2", null ],
+    [ "Argv", "a06334.html#a503b1ab0fb885410c92cf5149ae221f8", null ],
+    [ "ArtifactsModified", "a06334.html#a20f8df942d35f5860e61ca8f0fea8a01", null ],
+    [ "BortCommand", "a06334.html#a95b2fb5bd9df6f4577f47e90d33b52b8", null ],
+    [ "CharactersModified", "a06334.html#a82f667bf8811bb18ff2a247479c54002", null ],
+    [ "Config", "a06334.html#ac56aa3220a6d613097c6bb491c8d6002", null ],
+    [ "ConfigFileName", "a06334.html#a95f3ed4157ff697ffab8d6dddd350034", null ],
+    [ "ConfigsModified", "a06334.html#aeca7df483cdfc08169b7a0e74d9bb7b8", null ],
+    [ "DdMenu", "a06334.html#aafb13c570e72c9fe42fbed6dcbaf8def", null ],
+    [ "DdProgVersion", "a06334.html#aaf57476790f61c8a652faec8bfe6bf80", null ],
+    [ "EffectsModified", "a06334.html#a3ff8c2e90133f7109c4b4d09eeb48567", null ],
+    [ "FilesetsModified", "a06334.html#a1cc40f51aff6cd6e8505fa6532126aa4", null ],
+    [ "HintsModified", "a06334.html#af4d25e7ab0e0dd1895ead3d408cf4a79", null ],
+    [ "Menu", "a06334.html#aa910965ade1bed86330302cceb19e5f4", null ],
+    [ "Module", "a06334.html#a169e43ff566dcbe38eeca51e7800379e", null ],
+    [ "ModulesModified", "a06334.html#ab1f68d82e61056b99b020c70c30e7347", null ],
+    [ "MonstersModified", "a06334.html#ae5040fa324a6672e9b0ece5bef23f938", null ],
+    [ "RoomsModified", "a06334.html#abf0d527be4e799eb83fc152ef42dce37", null ],
+    [ "WordWrapCurrColumn", "a06334.html#a163764aa14f76013e035e459895f6445", null ],
+    [ "WordWrapLastChar", "a06334.html#a25c216d1b4dba6f145840f2b25bcf8cd", null ]
+];
